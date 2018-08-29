@@ -1,5 +1,5 @@
 {
-  "name": "9chu/markdown-it-katex",
+  "name": "@9chu/markdown-it-katex",
   "version": "3.0.4",
   "description": "Fast math support for markdown-it with KaTeX",
   "main": "index.js",
@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com:9chu/markdown-it-katex.git"
+    "url": "git+https://github.com/9chu/markdown-it-katex.git"
   },
   "keywords": [
     "markdown",
